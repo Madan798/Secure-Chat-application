@@ -1,0 +1,25 @@
+[debug] [2024-04-02T21:04:08.162Z] ----------------------------------------------------------------------
+[debug] [2024-04-02T21:04:08.163Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-04-02T21:04:08.163Z] CLI Version:   13.6.0
+[debug] [2024-04-02T21:04:08.164Z] Platform:      win32
+[debug] [2024-04-02T21:04:08.164Z] Node Version:  v18.16.0
+[debug] [2024-04-02T21:04:08.164Z] Time:          Tue Apr 02 2024 17:04:08 GMT-0400 (Eastern Daylight Time)
+[debug] [2024-04-02T21:04:08.164Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-02T21:04:08.221Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-02T21:04:08.221Z] > authorizing via signed-in user (prudhvinathreddy222@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\HP\Desktop\chatter-app
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
